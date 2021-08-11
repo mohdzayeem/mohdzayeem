@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on full stack dev
-- 📫 How to reach me IG:zayeem.2021
+- 📫 How to reach me IG:im_xay33m
 
 <!---
 mohdzayeem/mohdzayeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
